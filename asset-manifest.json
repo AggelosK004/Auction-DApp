@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Auction-DApp/static/css/main.5f75831b.css",
+    "main.js": "/Auction-DApp/static/js/main.97ed77a1.js",
+    "static/js/453.6f00de0e.chunk.js": "/Auction-DApp/static/js/453.6f00de0e.chunk.js",
+    "index.html": "/Auction-DApp/index.html",
+    "main.5f75831b.css.map": "/Auction-DApp/static/css/main.5f75831b.css.map",
+    "main.97ed77a1.js.map": "/Auction-DApp/static/js/main.97ed77a1.js.map",
+    "453.6f00de0e.chunk.js.map": "/Auction-DApp/static/js/453.6f00de0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f75831b.css",
+    "static/js/main.97ed77a1.js"
+  ]
+}
